@@ -1,0 +1,34 @@
+/*Ajouter la font */
+nav{
+    background-color: rgb(194, 194, 251);
+}
+nav ul{
+    list-style-type: none;
+}
+nav li{
+    float: left;
+    padding: 5px;
+}
+body {
+    font-family: 'Sixtyfour Convergence';
+    background-color: rgb(255, 255, 255);
+}
+
+.item {
+    height:300px;
+    width: 200px;
+    margin-bottom: 12px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-position: center;
+}
+
+
+footer{
+    background-color: rgb(194, 194, 251);
+}
+*
+{
+    list-style-type : none;
+}
